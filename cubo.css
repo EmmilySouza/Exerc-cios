@@ -1,0 +1,13 @@
+
+h1 {
+  color: rgb(163, 54, 197); 
+}
+
+h2 {
+  color: rgb(184, 113, 206);
+}
+
+.inside {
+  width: 550px;
+  border: 5px solid rgb(184, 113, 206);
+}
